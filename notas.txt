@@ -1,3 +1,4 @@
 Mi primera práctica de Git.
 
 Este archivo servirá para aprender a guardar versiones, crear ramas y resolver conflictos.
+Hola mundo
