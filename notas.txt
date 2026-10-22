@@ -4,3 +4,4 @@ Este archivo servirá para aprender a guardar versiones, crear ramas y resolver 
 Hola mundo
 he aprendido a guardar cambios con git
 cambio realizado en la rama feature-test
+cambio realizado desde conflicto-test
