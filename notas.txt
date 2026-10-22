@@ -5,3 +5,4 @@ Hola mundo
 he aprendido a guardar cambios con git
 cambio realizado en la rama feature-test
 conflicto resuelto correctamente
+cambio realizado por Nadia para practicar la colaboración
